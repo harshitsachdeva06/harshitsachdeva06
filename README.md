@@ -3,7 +3,7 @@ I'm a software engineer with a background in building robust applications and so
 
 **🔭 Current Work**
 
-I'm currently working as a Software Engineer at UBS. Prior to that I was working at Credit Suisse.
+I'm currently working as a Data Engineer at LTIMindtree.
 **🌱 Key Skills**
 
 Proficient in C++, Java, SQL, JavaScript, Kotlin, React, Spring Boot, and more.
