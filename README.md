@@ -4,8 +4,9 @@ I'm a software engineer with a background in building robust applications and so
 **🔭 Current Work**
 
 I'm currently working as a Data Engineer at LTIMindtree.
-**🌱 Key Skills**
 
+
+**🌱 Key Skills**
 Proficient in C++, Java, SQL, JavaScript, Kotlin, React, Spring Boot, and more.
 Experience in working with Git, Bitbucket, and CI/CD tools.
 Strong understanding of Data Structures, Algorithms, and Microservices.
